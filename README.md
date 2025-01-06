@@ -96,22 +96,6 @@ Learning: Power BI
 
 
 
-💼 Internships
-
-
-
-🌟 Oasis Data Science Virtual Internship: 🚗 Performed car price and sales predictions using machine learning.
-🔧 Conducted data preprocessing, feature engineering, and EDA.
-
-
-
-🌟 Cognifyz Data Science Internship: 🗺️ Worked on geospatial analysis, predictive modeling, and price range analysis.
-
-
-🌟 PRASUNET Data Science Internship: 📊 Focused on customer performance analysis and data visualization.
-🚀 Developed predictive models for real-world datasets.
-
-
 🏆 Achievements
 
 
